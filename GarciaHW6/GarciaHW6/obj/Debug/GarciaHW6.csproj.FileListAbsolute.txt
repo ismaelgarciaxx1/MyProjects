@@ -1,0 +1,12 @@
+C:\Users\Ismael\Desktop\ITM 225\GarciaHW6\GarciaHW6\bin\Debug\GarciaHW6.exe.config
+C:\Users\Ismael\Desktop\ITM 225\GarciaHW6\GarciaHW6\obj\Debug\GarciaHW6.csprojResolveAssemblyReference.cache
+C:\Users\Ismael\Desktop\ITM 225\GarciaHW6\GarciaHW6\obj\Debug\GarciaHW6.Form1.resources
+C:\Users\Ismael\Desktop\ITM 225\GarciaHW6\GarciaHW6\obj\Debug\GarciaHW6.Properties.Resources.resources
+C:\Users\Ismael\Desktop\ITM 225\GarciaHW6\GarciaHW6\obj\Debug\GarciaHW6.csproj.GenerateResource.Cache
+C:\Users\Ismael\Desktop\ITM 225\GarciaHW6\GarciaHW6\bin\Debug\GarciaHW6.exe
+C:\Users\Ismael\Desktop\ITM 225\GarciaHW6\GarciaHW6\bin\Debug\GarciaHW6.pdb
+C:\Users\Ismael\Desktop\ITM 225\GarciaHW6\GarciaHW6\obj\Debug\GarciaHW6.exe
+C:\Users\Ismael\Desktop\ITM 225\GarciaHW6\GarciaHW6\obj\Debug\GarciaHW6.pdb
+C:\Users\Ismael\Desktop\ITM 225\Homework\GarciaHW6\GarciaHW6\bin\Debug\GarciaHW6.exe.config
+C:\Users\Ismael\Desktop\ITM 225\Homework\GarciaHW6\GarciaHW6\obj\Debug\GarciaHW6.exe
+C:\Users\Ismael\Desktop\ITM 225\Homework\GarciaHW6\GarciaHW6\obj\Debug\GarciaHW6.pdb
