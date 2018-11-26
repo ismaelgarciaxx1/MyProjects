@@ -1,0 +1,9 @@
+C:\Users\Ismael\Desktop\GarciaHw3\GarciaHw3\bin\Debug\GarciaHw3.exe.config
+C:\Users\Ismael\Desktop\GarciaHw3\GarciaHw3\bin\Debug\GarciaHw3.exe
+C:\Users\Ismael\Desktop\GarciaHw3\GarciaHw3\bin\Debug\GarciaHw3.pdb
+C:\Users\Ismael\Desktop\GarciaHw3\GarciaHw3\obj\Debug\GarciaHw3.csprojResolveAssemblyReference.cache
+C:\Users\Ismael\Desktop\GarciaHw3\GarciaHw3\obj\Debug\GarciaHw3.Form1.resources
+C:\Users\Ismael\Desktop\GarciaHw3\GarciaHw3\obj\Debug\GarciaHw3.Properties.Resources.resources
+C:\Users\Ismael\Desktop\GarciaHw3\GarciaHw3\obj\Debug\GarciaHw3.csproj.GenerateResource.Cache
+C:\Users\Ismael\Desktop\GarciaHw3\GarciaHw3\obj\Debug\GarciaHw3.exe
+C:\Users\Ismael\Desktop\GarciaHw3\GarciaHw3\obj\Debug\GarciaHw3.pdb
