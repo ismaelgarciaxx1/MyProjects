@@ -1,0 +1,10 @@
+c:\users\labuser\documents\visual studio 2013\Projects\GarciaHW1\GarciaHW1\bin\Debug\GarciaHW1.exe.config
+C:\Users\Ismael\Desktop\GarciaHW1\GarciaHW1\bin\Debug\GarciaHW1.exe.config
+C:\Users\Ismael\Desktop\GarciaHW1\GarciaHW1\bin\Debug\GarciaHW1.exe
+C:\Users\Ismael\Desktop\GarciaHW1\GarciaHW1\bin\Debug\GarciaHW1.pdb
+C:\Users\Ismael\Desktop\GarciaHW1\GarciaHW1\obj\Debug\GarciaHW1.csprojResolveAssemblyReference.cache
+C:\Users\Ismael\Desktop\GarciaHW1\GarciaHW1\obj\Debug\GarciaHW1.Form1.resources
+C:\Users\Ismael\Desktop\GarciaHW1\GarciaHW1\obj\Debug\GarciaHW1.Properties.Resources.resources
+C:\Users\Ismael\Desktop\GarciaHW1\GarciaHW1\obj\Debug\GarciaHW1.csproj.GenerateResource.Cache
+C:\Users\Ismael\Desktop\GarciaHW1\GarciaHW1\obj\Debug\GarciaHW1.exe
+C:\Users\Ismael\Desktop\GarciaHW1\GarciaHW1\obj\Debug\GarciaHW1.pdb
