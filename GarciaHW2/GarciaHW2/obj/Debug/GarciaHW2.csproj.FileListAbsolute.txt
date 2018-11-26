@@ -1,0 +1,22 @@
+c:\users\ismael\documents\visual studio 2015\Projects\GarciaHW2\GarciaHW2\bin\Debug\GarciaHW2.exe.config
+c:\users\ismael\documents\visual studio 2015\Projects\GarciaHW2\GarciaHW2\bin\Debug\GarciaHW2.exe
+c:\users\ismael\documents\visual studio 2015\Projects\GarciaHW2\GarciaHW2\bin\Debug\GarciaHW2.pdb
+c:\users\ismael\documents\visual studio 2015\Projects\GarciaHW2\GarciaHW2\obj\Debug\GarciaHW2.csprojResolveAssemblyReference.cache
+c:\users\ismael\documents\visual studio 2015\Projects\GarciaHW2\GarciaHW2\obj\Debug\GarciaHW2.Form1.resources
+c:\users\ismael\documents\visual studio 2015\Projects\GarciaHW2\GarciaHW2\obj\Debug\GarciaHW2.Properties.Resources.resources
+c:\users\ismael\documents\visual studio 2015\Projects\GarciaHW2\GarciaHW2\obj\Debug\GarciaHW2.csproj.GenerateResource.Cache
+c:\users\ismael\documents\visual studio 2015\Projects\GarciaHW2\GarciaHW2\obj\Debug\GarciaHW2.exe
+c:\users\ismael\documents\visual studio 2015\Projects\GarciaHW2\GarciaHW2\obj\Debug\GarciaHW2.pdb
+C:\Users\Ismael\Desktop\GarciaHW2\GarciaHW2\bin\Debug\GarciaHW2.exe.config
+C:\Users\Ismael\Desktop\GarciaHW2\GarciaHW2\obj\Debug\GarciaHW2.exe
+C:\Users\Ismael\Desktop\GarciaHW2\GarciaHW2\obj\Debug\GarciaHW2.pdb
+C:\Users\Ismael.LAPTOP-R0ET44J2\Desktop\GarciaHW2\GarciaHW2\bin\Debug\GarciaHW2.exe.config
+C:\Users\Ismael.LAPTOP-R0ET44J2\Desktop\GarciaHW2\GarciaHW2\bin\Debug\GarciaHW2.exe
+C:\Users\Ismael.LAPTOP-R0ET44J2\Desktop\GarciaHW2\GarciaHW2\bin\Debug\GarciaHW2.pdb
+C:\Users\Ismael.LAPTOP-R0ET44J2\Desktop\GarciaHW2\GarciaHW2\obj\Debug\GarciaHW2.csprojResolveAssemblyReference.cache
+C:\Users\Ismael.LAPTOP-R0ET44J2\Desktop\GarciaHW2\GarciaHW2\obj\Debug\GarciaHW2.Form1.resources
+C:\Users\Ismael.LAPTOP-R0ET44J2\Desktop\GarciaHW2\GarciaHW2\obj\Debug\GarciaHW2.Properties.Resources.resources
+C:\Users\Ismael.LAPTOP-R0ET44J2\Desktop\GarciaHW2\GarciaHW2\obj\Debug\GarciaHW2.csproj.GenerateResource.Cache
+C:\Users\Ismael.LAPTOP-R0ET44J2\Desktop\GarciaHW2\GarciaHW2\obj\Debug\GarciaHW2.csproj.CoreCompileInputs.cache
+C:\Users\Ismael.LAPTOP-R0ET44J2\Desktop\GarciaHW2\GarciaHW2\obj\Debug\GarciaHW2.exe
+C:\Users\Ismael.LAPTOP-R0ET44J2\Desktop\GarciaHW2\GarciaHW2\obj\Debug\GarciaHW2.pdb
