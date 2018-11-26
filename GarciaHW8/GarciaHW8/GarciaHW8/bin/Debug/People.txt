@@ -1,0 +1,5 @@
+Fry,555-1111,deliveryboy@aol.com
+Bender,555-2222,robot@aol.com
+Professer,555-3333,madScientist@aol.com
+Lela,555-4444,1eye@aol.com
+Amy,555-5555,rich@aol.com
