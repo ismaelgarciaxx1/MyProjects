@@ -1,0 +1,9 @@
+C:\Users\Ismael\Desktop\ITM 225\GarciaHW5\GarciaHW5\bin\Debug\GarciaHW5.exe.config
+C:\Users\Ismael\Desktop\ITM 225\GarciaHW5\GarciaHW5\bin\Debug\GarciaHW5.exe
+C:\Users\Ismael\Desktop\ITM 225\GarciaHW5\GarciaHW5\bin\Debug\GarciaHW5.pdb
+C:\Users\Ismael\Desktop\ITM 225\GarciaHW5\GarciaHW5\obj\Debug\GarciaHW5.csprojResolveAssemblyReference.cache
+C:\Users\Ismael\Desktop\ITM 225\GarciaHW5\GarciaHW5\obj\Debug\GarciaHW5.Form1.resources
+C:\Users\Ismael\Desktop\ITM 225\GarciaHW5\GarciaHW5\obj\Debug\GarciaHW5.Properties.Resources.resources
+C:\Users\Ismael\Desktop\ITM 225\GarciaHW5\GarciaHW5\obj\Debug\GarciaHW5.csproj.GenerateResource.Cache
+C:\Users\Ismael\Desktop\ITM 225\GarciaHW5\GarciaHW5\obj\Debug\GarciaHW5.exe
+C:\Users\Ismael\Desktop\ITM 225\GarciaHW5\GarciaHW5\obj\Debug\GarciaHW5.pdb
