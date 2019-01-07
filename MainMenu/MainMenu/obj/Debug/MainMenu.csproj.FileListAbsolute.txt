@@ -1,0 +1,12 @@
+C:\Users\Ismael\Desktop\Programing\MainMenu\MainMenu\bin\Debug\MainMenu.exe.config
+C:\Users\Ismael\Desktop\Programing\MainMenu\MainMenu\bin\Debug\MainMenu.exe
+C:\Users\Ismael\Desktop\Programing\MainMenu\MainMenu\bin\Debug\MainMenu.pdb
+C:\Users\Ismael\Desktop\Programing\MainMenu\MainMenu\obj\Debug\MainMenu.csproj.CoreCompileInputs.cache
+C:\Users\Ismael\Desktop\Programing\MainMenu\MainMenu\obj\Debug\MainMenu.exe
+C:\Users\Ismael\Desktop\Programing\MainMenu\MainMenu\obj\Debug\MainMenu.pdb
+F:\Ismael's Stuff\Fall 2017\ITM320\Programing\MainMenu\MainMenu\bin\Debug\MainMenu.exe.config
+F:\Ismael's Stuff\Fall 2017\ITM320\Programing\MainMenu\MainMenu\bin\Debug\MainMenu.exe
+F:\Ismael's Stuff\Fall 2017\ITM320\Programing\MainMenu\MainMenu\bin\Debug\MainMenu.pdb
+F:\Ismael's Stuff\Fall 2017\ITM320\Programing\MainMenu\MainMenu\obj\Debug\MainMenu.csproj.CoreCompileInputs.cache
+F:\Ismael's Stuff\Fall 2017\ITM320\Programing\MainMenu\MainMenu\obj\Debug\MainMenu.exe
+F:\Ismael's Stuff\Fall 2017\ITM320\Programing\MainMenu\MainMenu\obj\Debug\MainMenu.pdb
