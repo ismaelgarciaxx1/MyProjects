@@ -1,0 +1,5 @@
+c:\users\labuser\documents\visual studio 2017\Projects\Composition2\Composition2\bin\Debug\Composition2.exe.config
+c:\users\labuser\documents\visual studio 2017\Projects\Composition2\Composition2\bin\Debug\Composition2.exe
+c:\users\labuser\documents\visual studio 2017\Projects\Composition2\Composition2\bin\Debug\Composition2.pdb
+c:\users\labuser\documents\visual studio 2017\Projects\Composition2\Composition2\obj\Debug\Composition2.exe
+c:\users\labuser\documents\visual studio 2017\Projects\Composition2\Composition2\obj\Debug\Composition2.pdb

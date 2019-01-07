@@ -1,0 +1,14 @@
+C:\Users\Ismael\Desktop\Programing\CustomExceptionHandling\CustomExceptionHandling\bin\Debug\CustomExceptionHandling.exe.config
+C:\Users\Ismael\Desktop\Programing\CustomExceptionHandling\CustomExceptionHandling\bin\Debug\CustomExceptionHandling.exe
+C:\Users\Ismael\Desktop\Programing\CustomExceptionHandling\CustomExceptionHandling\bin\Debug\CustomExceptionHandling.pdb
+C:\Users\Ismael\Desktop\Programing\CustomExceptionHandling\CustomExceptionHandling\obj\Debug\CustomExceptionHandling.csprojResolveAssemblyReference.cache
+C:\Users\Ismael\Desktop\Programing\CustomExceptionHandling\CustomExceptionHandling\obj\Debug\CustomExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\Ismael\Desktop\Programing\CustomExceptionHandling\CustomExceptionHandling\obj\Debug\CustomExceptionHandling.exe
+C:\Users\Ismael\Desktop\Programing\CustomExceptionHandling\CustomExceptionHandling\obj\Debug\CustomExceptionHandling.pdb
+F:\Ismael's Stuff\Fall 2017\ITM320\Programing\CustomExceptionHandling\CustomExceptionHandling\bin\Debug\CustomExceptionHandling.exe.config
+F:\Ismael's Stuff\Fall 2017\ITM320\Programing\CustomExceptionHandling\CustomExceptionHandling\bin\Debug\CustomExceptionHandling.exe
+F:\Ismael's Stuff\Fall 2017\ITM320\Programing\CustomExceptionHandling\CustomExceptionHandling\bin\Debug\CustomExceptionHandling.pdb
+F:\Ismael's Stuff\Fall 2017\ITM320\Programing\CustomExceptionHandling\CustomExceptionHandling\obj\Debug\CustomExceptionHandling.csprojResolveAssemblyReference.cache
+F:\Ismael's Stuff\Fall 2017\ITM320\Programing\CustomExceptionHandling\CustomExceptionHandling\obj\Debug\CustomExceptionHandling.csproj.CoreCompileInputs.cache
+F:\Ismael's Stuff\Fall 2017\ITM320\Programing\CustomExceptionHandling\CustomExceptionHandling\obj\Debug\CustomExceptionHandling.exe
+F:\Ismael's Stuff\Fall 2017\ITM320\Programing\CustomExceptionHandling\CustomExceptionHandling\obj\Debug\CustomExceptionHandling.pdb
