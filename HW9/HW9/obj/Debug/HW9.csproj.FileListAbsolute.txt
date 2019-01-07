@@ -1,0 +1,14 @@
+C:\Users\Ismael\Desktop\ITM320\Programs\HW9\HW9\bin\Debug\HW9.exe.config
+C:\Users\Ismael\Desktop\ITM320\Programs\HW9\HW9\bin\Debug\HW9.exe
+C:\Users\Ismael\Desktop\ITM320\Programs\HW9\HW9\bin\Debug\HW9.pdb
+C:\Users\Ismael\Desktop\ITM320\Programs\HW9\HW9\obj\Debug\HW9.csprojResolveAssemblyReference.cache
+C:\Users\Ismael\Desktop\ITM320\Programs\HW9\HW9\obj\Debug\HW9.csproj.CoreCompileInputs.cache
+C:\Users\Ismael\Desktop\ITM320\Programs\HW9\HW9\obj\Debug\HW9.exe
+C:\Users\Ismael\Desktop\ITM320\Programs\HW9\HW9\obj\Debug\HW9.pdb
+F:\Ismael's Stuff\Fall 2017\ITM320\Programs\HW9\HW9\bin\Debug\HW9.exe.config
+F:\Ismael's Stuff\Fall 2017\ITM320\Programs\HW9\HW9\bin\Debug\HW9.exe
+F:\Ismael's Stuff\Fall 2017\ITM320\Programs\HW9\HW9\bin\Debug\HW9.pdb
+F:\Ismael's Stuff\Fall 2017\ITM320\Programs\HW9\HW9\obj\Debug\HW9.csprojResolveAssemblyReference.cache
+F:\Ismael's Stuff\Fall 2017\ITM320\Programs\HW9\HW9\obj\Debug\HW9.csproj.CoreCompileInputs.cache
+F:\Ismael's Stuff\Fall 2017\ITM320\Programs\HW9\HW9\obj\Debug\HW9.exe
+F:\Ismael's Stuff\Fall 2017\ITM320\Programs\HW9\HW9\obj\Debug\HW9.pdb

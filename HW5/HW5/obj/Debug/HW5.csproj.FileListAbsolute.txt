@@ -1,0 +1,14 @@
+C:\Users\Ismael\Desktop\ITM320\Programs\HW5\HW5\bin\Debug\HW5.exe.config
+C:\Users\Ismael\Desktop\ITM320\Programs\HW5\HW5\bin\Debug\HW5.exe
+C:\Users\Ismael\Desktop\ITM320\Programs\HW5\HW5\bin\Debug\HW5.pdb
+C:\Users\Ismael\Desktop\ITM320\Programs\HW5\HW5\obj\Debug\HW5.csprojResolveAssemblyReference.cache
+C:\Users\Ismael\Desktop\ITM320\Programs\HW5\HW5\obj\Debug\HW5.csproj.CoreCompileInputs.cache
+C:\Users\Ismael\Desktop\ITM320\Programs\HW5\HW5\obj\Debug\HW5.exe
+C:\Users\Ismael\Desktop\ITM320\Programs\HW5\HW5\obj\Debug\HW5.pdb
+F:\Ismael's Stuff\Fall 2017\ITM320\Programs\HW5\HW5\bin\Debug\HW5.exe.config
+F:\Ismael's Stuff\Fall 2017\ITM320\Programs\HW5\HW5\bin\Debug\HW5.exe
+F:\Ismael's Stuff\Fall 2017\ITM320\Programs\HW5\HW5\bin\Debug\HW5.pdb
+F:\Ismael's Stuff\Fall 2017\ITM320\Programs\HW5\HW5\obj\Debug\HW5.csprojResolveAssemblyReference.cache
+F:\Ismael's Stuff\Fall 2017\ITM320\Programs\HW5\HW5\obj\Debug\HW5.csproj.CoreCompileInputs.cache
+F:\Ismael's Stuff\Fall 2017\ITM320\Programs\HW5\HW5\obj\Debug\HW5.exe
+F:\Ismael's Stuff\Fall 2017\ITM320\Programs\HW5\HW5\obj\Debug\HW5.pdb
