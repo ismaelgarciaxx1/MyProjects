@@ -1,0 +1,6 @@
+C:\Users\Ismael\Desktop\Programing\FoodSwitch\FoodSwitch\obj\Debug\FoodSwitch.csproj.CoreCompileInputs.cache
+C:\Users\Ismael\Desktop\Programing\FoodSwitch\FoodSwitch\bin\Debug\FoodSwitch.exe.config
+C:\Users\Ismael\Desktop\Programing\FoodSwitch\FoodSwitch\bin\Debug\FoodSwitch.exe
+C:\Users\Ismael\Desktop\Programing\FoodSwitch\FoodSwitch\bin\Debug\FoodSwitch.pdb
+C:\Users\Ismael\Desktop\Programing\FoodSwitch\FoodSwitch\obj\Debug\FoodSwitch.exe
+C:\Users\Ismael\Desktop\Programing\FoodSwitch\FoodSwitch\obj\Debug\FoodSwitch.pdb
